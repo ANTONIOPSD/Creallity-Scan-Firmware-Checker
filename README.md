@@ -37,7 +37,7 @@ Install with:
 
 ## Usage
 
-Configure your scan mode by editing the top of the `check_firmware.py` script.
+Configure your scan mode by editing the top of the `Creallity_Scan_Firmware_Checker.py` script.
 
 ### Scan a range of PIDs
 
@@ -49,7 +49,7 @@ Set these values:
 
 Then run the script:
 
-    python check_firmware.py
+    python Creallity_Scan_Firmware_Checker.py
 
 ---
 
@@ -61,7 +61,7 @@ Set this:
 
 Then run:
 
-    python check_firmware.py
+    python Creallity_Scan_Firmware_Checker.py
 
 ---
 
