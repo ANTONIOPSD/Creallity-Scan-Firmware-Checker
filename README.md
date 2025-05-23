@@ -92,7 +92,3 @@ This tool is for **educational and informational purposes only**.
 It interacts with a public OTA endpoint used by Creality devices and performs only read-only, passive requests. Use responsibly.
 
 ---
-
-## License
-
-This project is licensed under the MIT License.
